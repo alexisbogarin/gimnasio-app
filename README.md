@@ -25,15 +25,15 @@ Aquí tienes un vistazo de cómo luce la aplicación.
 
 **Pantalla de Ingreso (Check-in)**
 *Simple y optimizada para tablets en la entrada del gimnasio.*
-![Pantalla de Ingreso]([https://i.imgur.com/URL_DE_TU_IMAGEN_1.png](https://imgur.com/undefined))
+![Pantalla de Ingreso](https://imgur.com/QSUSwZv)
 
 **Panel de Administración**
 *El centro de control con estadísticas, gráficos y la lista de miembros.*
-![Panel de Administración]([https://i.imgur.com/URL_DE_TU_IMAGEN_2.png](https://imgur.com/eISvh88))
+![Panel de Administración](https://imgur.com/eISvh88)
 
 **Gestión de Miembros**
 *Modal para registrar nuevos socios de forma rápida y sencilla.*
-![Modal de Registro]([https://i.imgur.com/URL_DE_TU_IMAGEN_3.png](https://imgur.com/jp6uxIn))
+![Modal de Registro](https://imgur.com/jp6uxIn)
 
 ---
 
